@@ -1,14 +1,14 @@
-# 🔁 C++ Loops and Decision-Making Statements
+#  C++ Loops and Decision-Making Statements
 
-## 🎯 Objective
+##  Objective
 
 The objective of this mini-project is to explore and implement **decision-making statements** and **looping constructs** in the C++ programming language. Through a series of structured experiments, we aim to understand how control structures like `for` loops, `if` conditions, and `continue` statements work together to manage flow, repeat operations, and filter logic during runtime. This project provides foundational hands-on experience in structured programming.
 
 ---
 
-## 📚 Theory & Algorithm
+##  Theory & Algorithm
 
-### 1. ✅ Print Even Numbers from 1 to 10
+### 1.  Print Even Numbers from 1 to 10
 
 **Theory**:  
 This experiment uses a `for` loop to iterate from 1 to 10. During each iteration, it checks if a number is divisible by 2 using the condition `i % 2 == 0`. If the condition is true, the number is even and is printed.
@@ -22,7 +22,7 @@ This experiment uses a `for` loop to iterate from 1 to 10. During each iteration
 
 ---
 
-### 2. ✅ Print “COLLEGE” 5 Times
+### 2. Print “COLLEGE” 5 Times
 
 **Theory**:  
 Demonstrates loop repetition for constant output. The loop runs exactly 5 times, printing the word “COLLEGE” on each iteration.
@@ -35,7 +35,7 @@ Demonstrates loop repetition for constant output. The loop runs exactly 5 times,
 
 ---
 
-### 3. ✅ Program Using `for` Loop and `continue`
+### 3. Program Using `for` Loop and `continue`
 
 **Theory**:  
 This program illustrates the `continue` statement within a loop. It skips the current iteration if a condition is met (in this case, if the number is even), effectively filtering out even numbers and printing only odd ones.
@@ -49,7 +49,7 @@ This program illustrates the `continue` statement within a loop. It skips the cu
 
 ---
 
-### 4. ✅ Left-Aligned Inverse Star Pattern
+### 4.  Left-Aligned Inverse Star Pattern
 
 **Theory**:  
 This uses nested `for` loops to print an inverted triangle of stars. The outer loop decreases from 6 to 1, and the inner loop prints stars equal to the current row number.
@@ -63,7 +63,7 @@ This uses nested `for` loops to print an inverted triangle of stars. The outer l
 
 ---
 
-### 5. ✅ Right-Aligned Star Triangle
+### 5. Right-Aligned Star Triangle
 
 **Theory**:  
 Prints a triangle of stars aligned to the right. It uses one inner loop to print spaces and another to print stars, demonstrating loop control for visual formatting.
@@ -78,7 +78,7 @@ Prints a triangle of stars aligned to the right. It uses one inner loop to print
 
 ---
 
-### 6. ✅ Center-Aligned Triangle (Pyramid)
+### 6.  Center-Aligned Triangle (Pyramid)
 
 **Theory**:  
 Creates a centered pyramid using stars. It requires calculating both spaces and stars to maintain symmetry. The star count per row follows the formula `(2*i - 1)`.
@@ -93,7 +93,7 @@ Creates a centered pyramid using stars. It requires calculating both spaces and 
 
 ---
 
-### 7. ✅ Left-Aligned Number Triangle
+### 7.  Left-Aligned Number Triangle
 
 **Theory**:  
 This pattern prints incremental numbers row by row in triangle format. A counter is used to print increasing integers using nested loops.
@@ -108,7 +108,7 @@ This pattern prints incremental numbers row by row in triangle format. A counter
 
 ---
 
-### 8. ✅ Left-Aligned Triangle Using `*`
+### 8. Left-Aligned Triangle Using `*`
 
 **Theory**:  
 A basic pattern that prints a left-aligned triangle of stars. It helps in understanding how the number of symbols per line grows with each loop.
@@ -122,7 +122,7 @@ A basic pattern that prints a left-aligned triangle of stars. It helps in unders
 
 ---
 
-### 9. ✅ Print Numbers from 1 to 20
+### 9.  Print Numbers from 1 to 20
 
 **Theory**:  
 A straightforward loop example that prints numbers sequentially from 1 to 20 using a single loop construct.
@@ -135,7 +135,7 @@ A straightforward loop example that prints numbers sequentially from 1 to 20 usi
 
 ---
 
-### 10. ✅ Password Authentication
+### 10.  Password Authentication
 
 **Theory**:  
 Demonstrates basic decision-making with user input. The program checks if the entered password matches the predefined one using an `if-else` condition.
@@ -149,7 +149,7 @@ Demonstrates basic decision-making with user input. The program checks if the en
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project provided valuable hands-on experience with **loops**, **conditional logic**, and **pattern generation** in C++. We achieved the following outcomes:
 
